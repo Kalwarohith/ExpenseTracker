@@ -1,0 +1,14 @@
+[
+    {
+        "amount": 1000.0,
+        "category": "food",
+        "description": "with friends",
+        "date": "2025-04-12"
+    },
+    {
+        "amount": 300.0,
+        "category": "home",
+        "description": "holidays",
+        "date": "2025-04-12"
+    }
+]
